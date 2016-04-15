@@ -1,13 +1,15 @@
 package project1mannab;
 import java.util.Scanner;
 
-
+//new file
+hi its me again
 public class project1mannab {
 // this is manish and abdullah work
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner input = new Scanner(System.in);
-
+		System.out.print("Enter the number of balls: ");
+		System.out.print("Enter the number of balls: ");
 		// Let the user to enter the number of the balls
 		System.out.print("Enter the number of balls: ");
 		int Balls = input.nextInt();
