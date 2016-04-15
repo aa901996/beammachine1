@@ -2,6 +2,8 @@ package project1mannab;
 import java.util.Scanner;
 
 // This is some changes in this file
+//it is different change
+//by abdullah
 public class project1mannab {
 // this is manish and abdullah work
 	public static void main(String[] args) {
